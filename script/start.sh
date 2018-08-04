@@ -1,0 +1,2 @@
+wget http://192.168.1.122:8080/job/SpringBootAdmin/lastStableBuild/se.leetlab\$spring-boot-admin/artifact/se.leetlab/spring-boot-admin/1.0-SNAPSHOT/spring-boot-admin-1.0-SNAPSHOT.jar
+java -Dspring.profiles.active=production -jar spring-boot-admin-1.0-SNAPSHOT.jar

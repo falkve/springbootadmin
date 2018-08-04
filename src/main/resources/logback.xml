@@ -12,6 +12,7 @@
             <level>DEBUG</level>
         </filter>
         <debug>true</debug>
+        <additionalFields>application=springbootadmin</additionalFields>
     </appender>
 
 

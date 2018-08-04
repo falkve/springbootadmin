@@ -6,7 +6,7 @@ spring:
   profiles: production
 
 server:
-  ssl.key-store: /etc/letsencrypt/live/www.falktime.se/keystore.p12
+  ssl.key-store: /var/cert/keystore.p12
   ssl.key-store-password: dans98ko
   ssl.keyStoreType: PKCS12
   ssl.keyAlias: falktime
